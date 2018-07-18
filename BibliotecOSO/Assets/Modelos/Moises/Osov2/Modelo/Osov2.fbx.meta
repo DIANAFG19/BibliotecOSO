@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 75c12a70afe00ad429a554ba62732713
+timeCreated: 1531937908
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.002
+    100004: Bone.003
+    100006: Bone.004
+    100008: Bone.005
+    100010: Bone.006
+    100012: Bone.007
+    100014: Bone.007_end
+    100016: Bone.008
+    100018: Bone.009
+    100020: Bone.011
+    100022: Bone.012
+    100024: Bone.012_end
+    100026: Bone.014
+    100028: Bone.015
+    100030: Bone.016
+    100032: Bone.016_end
+    100034: Bone.017
+    100036: Bone.017_end
+    100038: Bone.018
+    100040: Bone.019
+    100042: Bone.020
+    100044: Bone.021
+    100046: Bone.022
+    100048: Bone.023
+    100050: Bone.024
+    100052: Bone.025
+    100054: Bone.026
+    100056: Bone.026_end
+    100058: Bone.027
+    100060: Bone.027_end
+    100062: Bone.030
+    100064: Bone.031
+    100066: Bone.032
+    100068: Bone.033
+    100070: Bone.034
+    100072: Bone.034_end
+    100074: Bone.035
+    100076: Bone.035_end
+    100078: Icosphere
+    100080: Icosphere.001
+    100082: Icosphere.002
+    100084: //RootNode
+    100086: Plane
+    100088: Plane.001
+    100090: Plane.002
+    100092: Plane.003
+    100094: Plane.004
+    100096: Plane.005
+    100098: Plane.006
+    100100: Sphere
+    400000: Armature
+    400002: Bone.002
+    400004: Bone.003
+    400006: Bone.004
+    400008: Bone.005
+    400010: Bone.006
+    400012: Bone.007
+    400014: Bone.007_end
+    400016: Bone.008
+    400018: Bone.009
+    400020: Bone.011
+    400022: Bone.012
+    400024: Bone.012_end
+    400026: Bone.014
+    400028: Bone.015
+    400030: Bone.016
+    400032: Bone.016_end
+    400034: Bone.017
+    400036: Bone.017_end
+    400038: Bone.018
+    400040: Bone.019
+    400042: Bone.020
+    400044: Bone.021
+    400046: Bone.022
+    400048: Bone.023
+    400050: Bone.024
+    400052: Bone.025
+    400054: Bone.026
+    400056: Bone.026_end
+    400058: Bone.027
+    400060: Bone.027_end
+    400062: Bone.030
+    400064: Bone.031
+    400066: Bone.032
+    400068: Bone.033
+    400070: Bone.034
+    400072: Bone.034_end
+    400074: Bone.035
+    400076: Bone.035_end
+    400078: Icosphere
+    400080: Icosphere.001
+    400082: Icosphere.002
+    400084: //RootNode
+    400086: Plane
+    400088: Plane.001
+    400090: Plane.002
+    400092: Plane.003
+    400094: Plane.004
+    400096: Plane.005
+    400098: Plane.006
+    400100: Sphere
+    2100000: CredencialExt
+    2100002: CrendencialInt
+    2100004: Cuerpo
+    2100006: Cola
+    2100008: Pierna
+    2100010: Pata
+    2100012: Ojos
+    2100014: OrejaExt
+    2100016: OrejaInterior
+    2100018: No Name
+    2100020: Brazo
+    4300000: Plane.006
+    4300002: Sphere
+    4300004: Icosphere.002
+    4300006: Icosphere.001
+    4300008: Icosphere
+    4300010: Plane.005
+    4300012: Plane.001
+    4300014: Plane.002
+    4300016: Plane
+    4300018: Plane.003
+    4300020: Plane.004
+    9500000: //RootNode
+    13700000: Icosphere
+    13700002: Icosphere.001
+    13700004: Icosphere.002
+    13700006: Plane
+    13700008: Plane.001
+    13700010: Plane.002
+    13700012: Plane.003
+    13700014: Plane.004
+    13700016: Plane.005
+    13700018: Plane.006
+    13700020: Sphere
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
